@@ -2,9 +2,6 @@
 title: "Området"
 ---
 
-\
-<span style="color:red">**Denne hjemmeside er under konstruktion.**</span>\
-\
 
 ## Luftfoto med fællesarealer
 

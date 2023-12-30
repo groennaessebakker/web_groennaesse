@@ -12,6 +12,3 @@ page-layout: full  # article, full, or custom
 title-block-banner: true
 ---
 
-\
-<span style="color:red">**Denne hjemmeside er under konstruktion.**</span>\
-\
