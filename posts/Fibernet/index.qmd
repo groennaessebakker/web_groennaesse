@@ -1,0 +1,16 @@
+---
+title: "Fibernet"
+author: "Bestyrelsen"
+date: 2023-05-31
+---
+
+### Status: maj 2023
+
+Læs [her](Fiber.pdf) om den aktuelle status!
+
+Information vedr fibernet er husstandsomdelt i flere omgang siden slut april/beg maj.
+GlobalConnect /Wizer var de første med information om at GlobalConnect begynder snart at etablere fibernet i vores område.
+Siden har vi modtaget  flyers fra BornFiber og Altibox.
+
+![](Fiber_foto.png){width="300"}
+

@@ -1,0 +1,54 @@
+---
+title: "Området"
+---
+
+\
+<span style="color:red">**Denne hjemmeside er under konstruktion.**</span>\
+\
+
+## Luftfoto med fællesarealer
+
+![](dok_omraadet/Compr_IMG_google.jpeg)
+
+I vores vedtægter står der bl.a.: "Foreningens formål er at forestå og vedligeholde de af foreningen tilskødede vej- og andre fællesarealer."
+
+## Grundoversigt
+
+![](dok_omraadet/Grundoversigt.png)
+
+## Vore naboer
+
+(link på fotoet)
+
+::: columns
+::: {.column width="48%"}
+[![Sølager Værksted](dok_omraadet/s%C3%B8lager_v%C3%A6rksted_gr%C3%B8ntsalg.jpeg)](https://soelagervaerksted.halsnaes.dk/besoegende)
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+[![Grønnessegaard Gods](dok_omraadet/groennessegaard.jpg)](https://groennesse.dk)
+:::
+:::
+
+## Andre links i nærområdet
+
+-   [Lynæs surfcenter](https://surfcenter.dk)
+-   [Spisekammer Halsnæs](https://www.spisekammerhalsnaes.dk)
+-   [Halsninoen -- vandretur gennem Halsnæs' enestående natur](https://mithalsnaes.dk/halsninoen/)
+-   [Færgen M/F Columbus](https://mfcolumbus.frederikssund.dk)
+-   [Hundested havn](https://hundestedhavn.dk)
+
+## OpenStreetMap
+
+```{r}
+#| echo: false
+
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=11.902952, lat=55.950233, popup="Grundejerforeningen Grønnæsse Bakker")
+```
+

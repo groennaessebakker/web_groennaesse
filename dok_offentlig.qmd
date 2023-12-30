@@ -1,0 +1,39 @@
+---
+title: "Offentlige dokumenter"
+---
+
+\
+<span style="color:red">**Denne hjemmeside er under konstruktion.**</span>\
+\
+
+## Servitutter og deklarationer
+
+::: columns
+::: {.column width="55%"}
+Her finder du tinglyste servitutter og deklarationer for vores område. En servitut er en bestemmelse knyttet til en fast ejendom, som begrænser ejerens ret til at råde over den. En servitut og en deklaration er det samme.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+-   [Servitut - Udstykning af Grønnessegård, 1965](dok_offentlig/Servitutter%20-%20Udstykning%20af%20Grønnessegård.pdf)
+-   [Deklaration - Ret til sti og ophold og badning på stand, 1965](dok_offentlig/Deklaration-Ret%20til%20ophold%20og%20badning%20på%20stranden.pdf)
+-   [Deklaration om fredning, 1965](dok_offentlig/%20Deklaration%20om%20fredning.pdf)
+:::
+:::
+
+## Lokalplan
+
+::: columns
+::: {.column width="55%"}
+Her finder du "Lokalplan nr. 16 for et område under Grønnessegård hovedgård" fra 1978.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+-   [Lokalplan, 1978](dok_offentlig/Lokalplan%2016.pdf)
+:::
+:::

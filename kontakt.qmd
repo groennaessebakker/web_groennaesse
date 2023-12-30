@@ -1,0 +1,47 @@
+---
+title: "Kontakt"
+---
+
+\
+<span style="color:red">**Denne hjemmeside er under konstruktion.**</span>\
+\
+
+## Bestyrelsen
+
+Bestyrelsen består af 5 medlemmer og én suppleant.\
+\
+Kontaktinfo til bestyrelsen:
+
+-   Formand: Svend Wisbøl, abcd@mail.dk
+-   Sekretær (suppleant): Nicole Schoer, abcd@mail.dk
+-   Kasserer: Morten Lorenzen, abcd@mail.dk
+
+
+::: {.content-hidden when-format="html"}
+
+- Formand: Svend Wisbøl, abcd@mail.dk
+- Bestyrelsesmedlem: Rune West Johansen
+- Bestyrelsesmedlem: Nicole Schoer, abcd@mail.dk
+- Kasserer: Morten Lorenzen, abcd@mail.dk
+- Bestyrelsesmedlem: Jonas Østrup
+- Suppleant: Lise Skaarup Mortensen
+
+:::
+
+
+
+## Medlemmernes kontaktoplysninger
+
+Til foreningens medlemshåndtering, herunder kontingentopkrævning, indkaldelse til generalforsamling, udsendelse af generalforsamlingsreferat vedligeholder Nicole Schoer, **abcd@mail.dk** medlemmernes kontaktoplysninger.
+
+
+
+## Hjemmesiden
+
+Formålet med hjemmesiden er at:
+
+-   Gøre foreningens dokumenter og relevante oplysninger nemt tilgængelige for medlemmerne i grundejerforeningen.
+-   Gøre foreingen synligt udadtil, herunder for potentielle nye medlemmer.
+
+Hjemmesiden vedligeholdes af Morten Lorenzen, er skrevet i [Quarto](https://quarto.org/) og bruger ikke Cookies.
+

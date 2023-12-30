@@ -1,0 +1,77 @@
+---
+title: "Foreningens dokumenter"
+---
+
+\
+[**Denne hjemmeside er under konstruktion.**]{style="color:red"}\
+\
+
+## Vedtægter og ordensregler
+
+::: columns
+::: {.column width="55%"}
+Her finder du vedtægter og ordensreglement.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+-   [Vedtægter](dok_forening/Vedtægter_2014.pdf)
+-   [Vedtægter for vejfond](dok_forening/Vedtægter_vejfond.pdf)
+-   [Ordensreglement](dok_forening/Ordensreglement_2014-04-05.pdf)
+:::
+:::
+
+## Generalforsamlinger referater
+
+::: columns
+::: {.column width="55%"}
+Her finder du referater fra generalforsamlinger.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+- [Generalforsamling 2023](dok_forening/GF_referat_2023.pdf)
+- [Generalforsamling 2022](dok_forening/GF_referat_2022.pdf)
+:::
+:::
+
+## Regnskaber
+
+::: columns
+::: {.column width="55%"}
+Her finder du foreningens regnskaber.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+-   [Regnskab 2022](dok_forening/Regnskab_2022.pdf)
+-   [Regnskab 2021](dok_forening/Regnskab_2021.pdf)
+-   [Regnskab 2020](dok_forening/Regnskab_2020.pdf)
+-   [Regnskab 2019](dok_forening/Regnskab_2019.pdf)
+-   [Regnskab 2018](dok_forening/Regnskab_2018.pdf)
+-   [Regnskab 2017](dok_forening/Regnskab_2017.pdf)
+-   [Regnskab 2016](dok_forening/Regnskab_2016.pdf)
+:::
+:::
+
+
+## Årsplan
+
+Formalia ifølge vores vedtægter:
+
+- 1/3 forslag (altid skriftligt) fra medlemmerne skal være hos formanden §7
+- 11/3 – 24/4 periode for tidligste og seneste udsendelse af indkaldelse til GF med 3 ugers varsel, hvor også revideret regnskab medsendes §7
+- 1/4 – 15/5 periode til afholdelse af GF §7
+- 15/5 kontingent forfalder §5
+- 31/5 kontingent skal være betalt ellers rykker med gebyr §5
+
+Uge 43 i oktober - efter efterårsferien - afhentning af haveaffald/GF-beslutning
+
+
+
