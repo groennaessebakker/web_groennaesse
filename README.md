@@ -1,4 +1,4 @@
-# web_groennaessebakker
+# web_groennaesse
 
 groennaessebakker.dk er hjemmesiden for Grundejerforeningen Grønnæsse Bakker.
 
