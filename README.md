@@ -1,6 +1,6 @@
 # web_groennaesse
 
-[groennaessebakker.dk](groennaessebakker.dk) er hjemmesiden for Grundejerforeningen Grønnæsse Bakker.
+[groennaessebakker.dk](https://groennaessebakker.dk) er hjemmesiden for Grundejerforeningen Grønnæsse Bakker.
 
 Alt indhold på hjemmesiden er offentligt.
 
