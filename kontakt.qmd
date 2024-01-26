@@ -25,8 +25,8 @@ Til foreningens medlemshåndtering, herunder kontingentopkrævning, indkaldelse
 Formålet med foreningens hjemmeside er at:
 
 -   Gøre foreningens dokumenter og relevante oplysninger nemt tilgængelige for medlemmerne i grundejerforeningen.
--   Gøre foreingen synligt udadtil, herunder for potentielle nye medlemmer.
+-   Gøre foreningen synligt udadtil, herunder for potentielle nye medlemmer.
 
-Hjemmesiden er skrevet i [Quarto](https://quarto.org/) og hosted på [GitHub Pages](https://github.com/groennaessebakker/web_groennaesse). Hjemmesiden bruger ikke cookies.\
+Hjemmesiden er skrevet i [Quarto](https://quarto.org/) og hostet på [GitHub Pages](https://github.com/groennaessebakker/web_groennaesse). Hjemmesiden bruger ikke cookies.\
 Kontakt vedr. hjemmesiden: Morten Lorenzen, m.lorenzen@hotmail.com 
 

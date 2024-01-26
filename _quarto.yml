@@ -50,7 +50,8 @@ format:
     theme:
       - cosmo
       - theme_custom.scss
-    css: styles.css
+    css: styles.css        # empty
+    fontsize: 1.2em
     toc: false
 
 
