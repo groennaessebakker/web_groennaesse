@@ -14,8 +14,8 @@ Her finder du tinglyste servitutter og deklarationer for vores område. En servi
 :::
 
 ::: {.column width="40%"}
--   [Servitut - Udstykning af Grønnessegård, 1965](dok_offentlig/Servitutter%20-%20Udstykning%20af%20Grønnessegård.pdf)
--   [Deklaration - Ret til sti og ophold og badning på stand, 1965](dok_offentlig/Deklaration-Ret%20til%20ophold%20og%20badning%20på%20stranden.pdf)
+-   [Servitut - Udstykning af Grønnessegård, 1965](dok_offentlig/Servitutter - Udstykning af Groennessegaard.pdf)
+-   [Deklaration - Ret til sti og ophold og badning på strand, 1965](dok_offentlig/Deklaration-Ret til ophold og badning paa stranden.pdf)
 -   [Deklaration om fredning, 1965](dok_offentlig/%20Deklaration%20om%20fredning.pdf)
 :::
 :::
