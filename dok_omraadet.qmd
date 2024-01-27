@@ -15,28 +15,30 @@ I vores vedtægter står der bl.a.: "Foreningens formål er at forestå og ved
 
 ## Vore naboer
 
-(link på fotoet)
-
 ::: columns
 ::: {.column width="48%"}
-[![Sølager Værksted](dok_omraadet/s%C3%B8lager_v%C3%A6rksted_gr%C3%B8ntsalg.jpeg)](https://soelagervaerksted.halsnaes.dk/besoegende)
+[Sølager Værksted](https://soelagervaerksted.halsnaes.dk/besoegende){target="_blank"}\
+\
+![](dok_omraadet/soelager_vaerksted.jpeg)
 :::
 
 ::: {.column width="4%"}
 :::
 
 ::: {.column width="48%"}
-[![Grønnessegaard Gods](dok_omraadet/groennessegaard.jpg)](https://groennesse.dk)
+[Grønnessegaard Gods](https://groennesse.dk){target="_blank"}\
+\
+![](dok_omraadet/groennessegaard.jpg)
 :::
 :::
 
 ## Andre links i nærområdet
 
--   [Lynæs surfcenter](https://surfcenter.dk)
--   [Spisekammer Halsnæs](https://www.spisekammerhalsnaes.dk)
--   [Halsninoen -- vandretur gennem Halsnæs' enestående natur](https://mithalsnaes.dk/halsninoen/)
--   [Færgen M/F Columbus](https://mfcolumbus.frederikssund.dk)
--   [Hundested havn](https://hundestedhavn.dk)
+-   [Lynæs surfcenter](https://surfcenter.dk){target="_blank"}
+-   [Spisekammer Halsnæs](https://www.spisekammerhalsnaes.dk){target="_blank"}
+-   [Halsninoen -- vandretur gennem Halsnæs' enestående natur](https://mithalsnaes.dk/halsninoen/){target="_blank"}
+-   [Færgen M/F Columbus](https://mfcolumbus.frederikssund.dk){target="_blank"}
+-   [Hundested havn](https://hundestedhavn.dk){target="_blank"}
 
 ## OpenStreetMap
 
