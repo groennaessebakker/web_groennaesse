@@ -2,21 +2,29 @@
 title: "Kontakt"
 ---
 
-
 ## Bestyrelsen
 
-Bestyrelsen består af 5 medlemmer og én suppleant.\
-\
-Kontaktinfo til bestyrelsen:
+Bestyrelsen består af 5 medlemmer og én suppleant.
 
--   Formand: Svend Wisbøl, svend6641@gmail.com
--   Kasserer: Morten Lorenzen, m.lorenzen@hotmail.com
+### Formand
+
+Svend Wisbøl, svend6641@gmail.com
+
+### Kasserer
+
+Morten Lorenzen, m.lorenzen@hotmail.com
+
+- udsender kontingentopkrævninger
+- tager imod henvendelser omkring kontingent og betalinger.
 
 
+### Medlemmernes kontaktoplysninger
 
-## Medlemmernes kontaktoplysninger
+Nicole Schoer (suppleant), **mail: ?**
 
-Til foreningens medlemshåndtering, herunder kontingentopkrævning, indkaldelse til generalforsamling, udsendelse af generalforsamlingsreferat vedligeholder Nicole Schoer (suppleant), **mail: ???** medlemmernes kontaktoplysninger.
+- vedligeholder medlemmernes kontaktoplysninger og udsender medlemsliste
+- tager imod henvendelser fra ejendomsmæglere og nye medlemmer
+- udsender generalforsamlingsindkaldelser og referater
 
 
 ## Hjemmesiden
