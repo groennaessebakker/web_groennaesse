@@ -19,3 +19,10 @@ Her på hjemmesiden kan du læse nyheder og om projekter i foreningen. Du finder
 
 Med venlig hilsen\
 Bestyrelsen
+
+
+::: {.callout-note appearance="simple" collapse="true"}
+## Seneste opdatering den 23.05.2024: Tilføjet GF referat 2024 og regnskab 2023
+- 23.05.2024: Tilføjet GF referat 2024 og regnskab 2023
+
+:::
