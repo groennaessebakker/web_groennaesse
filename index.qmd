@@ -22,7 +22,8 @@ Bestyrelsen
 
 
 ::: {.callout-note appearance="simple" collapse="true"}
-## Seneste opdatering den 23.05.2024: Tilføjet GF referat 2024 og regnskab 2023
+## Seneste opdatering den 09.09.2024: Foreningens kontaktoplysninger på siden "Kontakt" er opdateret
+- 09.09.2024: Foreningens kontaktoplysninger på siden "Kontakt" er opdateret
 - 23.05.2024: Tilføjet GF referat 2024 og regnskab 2023
 
 :::

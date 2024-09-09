@@ -1,30 +1,27 @@
 ---
-title: "Kontakt"
+title: ""
 ---
+
+## Kontakt
+
+Forenigen kan kontaktes på foreningens mail:
+
+**groennaessebakker@gmail.com**
+
 
 ## Bestyrelsen
 
 Bestyrelsen består af 5 medlemmer og én suppleant.
 
-### Formand
-
-Svend Wisbøl, svend6641@gmail.com
-
-### Kasserer
-
-Morten Lorenzen, m.lorenzen@hotmail.com
-
-- udsender kontingentopkrævninger
-- tager imod henvendelser omkring kontingent og betalinger.
+- Formand: Svend Wisbøl
+- Kasserer: Morten Lorenzen
 
 
-### Medlemmernes kontaktoplysninger
+## Medlemmernes kontaktoplysninger
 
-Nicole Schoer (suppleant), **mail: ?**
+Bestyrelsen udsender indkaldelsen til generalforsamlingen, referater og kontingentopkrævningen til medlemmerne **på mail**.
 
-- vedligeholder medlemmernes kontaktoplysninger og udsender medlemsliste
-- tager imod henvendelser fra ejendomsmæglere og nye medlemmer
-- udsender generalforsamlingsindkaldelser og referater
+Dette kræver, at medlemmernes kontaktoplysninger altid er opdaterede. Har du ændringer, så skriv til foreningens mail. 
 
 
 ## Hjemmesiden
@@ -34,6 +31,4 @@ Formålet med foreningens hjemmeside er at:
 -   Gøre foreningens dokumenter og relevante oplysninger nemt tilgængelige for medlemmerne i grundejerforeningen.
 -   Gøre foreningen synligt udadtil, herunder for potentielle nye medlemmer.
 
-Hjemmesiden er skrevet i [Quarto](https://quarto.org/){target="_blank"} og hostet på [GitHub Pages](https://github.com/groennaessebakker/web_groennaesse){target="_blank"}. Hjemmesiden bruger ikke cookies.\
-Kontakt vedr. hjemmesiden: Morten Lorenzen, m.lorenzen@hotmail.com 
-
+Hjemmesiden er hostet på [GitHub Pages](https://github.com/groennaessebakker/web_groennaesse){target="_blank"}. Hjemmesiden bruger ikke cookies.
