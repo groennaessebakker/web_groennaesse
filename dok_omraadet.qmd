@@ -9,15 +9,17 @@ title: "Området"
 
 I vores vedtægter står der bl.a.: "Foreningens formål er at forestå og vedligeholde de af foreningen tilskødede vej- og andre fællesarealer."
 
+
 ## Grundoversigt
 
 ![](dok_omraadet/Grundoversigt.png)
+
 
 ## Vore naboer
 
 ::: columns
 ::: {.column width="48%"}
-[Sølager Værksted](https://soelagervaerksted.halsnaes.dk/besoegende){target="_blank"}\
+[Sølager Værksted](https://soelagervaerksted.halsnaes.dk){target="_blank"}\
 \
 ![](dok_omraadet/soelager_vaerksted.jpeg)
 :::
@@ -32,6 +34,7 @@ I vores vedtægter står der bl.a.: "Foreningens formål er at forestå og ved
 :::
 :::
 
+
 ## Andre links i nærområdet
 
 -   [Lynæs surfcenter](https://surfcenter.dk){target="_blank"}
@@ -39,6 +42,7 @@ I vores vedtægter står der bl.a.: "Foreningens formål er at forestå og ved
 -   [Halsninoen -- vandretur gennem Halsnæs' enestående natur](https://mithalsnaes.dk/halsninoen/){target="_blank"}
 -   [Færgen M/F Columbus](https://mfcolumbus.frederikssund.dk){target="_blank"}
 -   [Hundested havn](https://hundestedhavn.dk){target="_blank"}
+
 
 ## OpenStreetMap
 
@@ -50,4 +54,18 @@ leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addMarkers(lng=11.902952, lat=55.950233, popup="Grundejerforeningen Grønnæsse Bakker")
 ```
+
+
+
+## Danmark set fra luften før Google
+
+[Danmark set fra luften](https://www.kb.dk/find-materiale/tjenester/danmark-set-fra-luften/om-danmark-set-fra-luften){target="_blank"} er en online tjeneste, hvor man kan se luftfotos af Danmark fra 1890 og frem. Her er nogle luftfotos fra Sølager, som giver indblik i, hvordan vores område har ændret sig over tid.
+
+
+- [Sølager 1971](https://www.kb.dk/danmarksetfraluften/images/luftfo/2011/maj/luftfoto/object1168746){target="_blank"}
+- [Sølager 1981](https://www.kb.dk/danmarksetfraluften/images/luftfo/2011/maj/luftfoto/object1205265){target="_blank"}
+- [Sølager 1984](https://www.kb.dk/danmarksetfraluften/images/luftfo/2011/maj/luftfoto/object1200739){target="_blank"}
+- [Sølager 1987](https://www.kb.dk/danmarksetfraluften/images/luftfo/2011/maj/luftfoto/object1251460){target="_blank"}
+- [Sølager 1990](https://www.kb.dk/danmarksetfraluften/images/luftfo/2011/maj/luftfoto/object1264362){target="_blank"}
+- [Sølager 1999](https://www.kb.dk/danmarksetfraluften/images/luftfo/2011/maj/luftfoto/object1541030){target="_blank"}
 

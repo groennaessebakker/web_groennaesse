@@ -1,7 +1,7 @@
 ---
 title: "Trapperne"
 author: "Bestyrelsen"
-date: 2022-06-30
+date: 2025-04-14
 ---
 
 
@@ -10,7 +10,17 @@ Her finder du en tidslinie over de vigtigste begivenheder i forbindelse med trap
 ![](nytrappe.jpg){width="300"}
 
 
+## Jordskredssikring i marts 2025
 
+I foråret 2025 blev der udført en jordskredssikring på vest trappen. Henning Hansen (som også byggede trapperne) udførte arbejdet.
+
+::: {layout-ncol=3}
+![Trappe vest, marts 2025](nytrappeV3.jpeg)
+
+![Trappe vest, marts 2025](nytrappeV4.jpeg)
+
+![Trappe vest, marts 2025](nytrappeV5.jpeg)
+:::
 
 
 
@@ -19,24 +29,23 @@ Her finder du en tidslinie over de vigtigste begivenheder i forbindelse med trap
 I efterår 2020 og forår 2021 blev de 2 gamle trapper fjernet og der blev opsat 2 nye trapper. De gamle trapper var i så dårlig stand, at de ikke kunne repareres. De nye naturtrapper er bygget i egetræ med egestolper og planker/lægter samt rustfrie søm, skruer og gelænder. I alt 66 trin på vesttrappen og 76 trin på østtrappen.  Mand & Bil v. Henning Hansen udførte arbejdet. Trapperne kostede 263.000 kr. inkl. moms. og blev betalt af foreningens vejfond.
 
 ::: {layout-ncol=2}
-![Trappe vest, februar 2023](nytrappeV1.jpeg){.nolightbox}
+![Trappe vest, februar 2023](nytrappeV1.jpeg)
 
 :::
 
-Her mangler flere fotos af de nye trapper.
 
 
 ## De gamle trapper før 2020
 
 
 ::: {layout-ncol=2}
-![Trappe vest, maj 2019](trappeV1.jpg){.nolightbox}
+![Trappe vest, maj 2019](trappeV1.jpg)
 
-![Trappe vest, maj 2019](trappeV2.jpg){.nolightbox}
+![Trappe vest, maj 2019](trappeV2.jpg)
 :::
 
 ::: {layout-ncol=2}
-![Trappe øst, maj 2018](trappeØ1.jpg){.nolightbox}
+![Trappe øst, maj 2018](trappeØ1.jpg)
 
-![Trappe øst, maj 2018](trappeØ2.jpg){.nolightbox}
+![Trappe øst, maj 2018](trappeØ2.jpg)
 :::
