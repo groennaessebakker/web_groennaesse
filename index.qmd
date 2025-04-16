@@ -24,7 +24,7 @@ Bestyrelsen
 ::: {.callout-note appearance="simple" collapse="false"}
 ## Seneste opdateringer
 
-- 15.04.2025: Indkaldelse til [Generalforsamling 2025](posts/GF_info/index.qmd), link til gamle [luftfotos fra Sølager](dok_omraadet.qmd#danmark-set-fra-luften-før-google) og fotos fra [vest trappen efter jordskredssikring](posts/trapper/index.qmd#jordskredssikring-i-marts-2025).
+- 15.04.2025: Indkaldelse til [Generalforsamling 2025](posts/GF_info/index.qmd), fotos fra [vest trappen efter jordskredssikring](posts/trapper/index.qmd#jordskredssikring-i-marts-2025) og link til gamle [luftfotos fra Sølager](dok_omraadet.qmd#danmark-set-fra-luften-før-google).
 - 09.09.2024: Foreningens kontaktoplysninger på siden "Kontakt" er opdateret.
 - 23.05.2024: Tilføjet GF referat 2024 og regnskab 2023.
 
