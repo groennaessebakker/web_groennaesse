@@ -1,7 +1,7 @@
 ---
 title: "Generalforsamlinger"
 author: "Bestyrelsen"
-date: 2025-04-15
+date: 2025-06-25
 ---
 
 Her finder du informationer om generalforsamlinger.
@@ -10,7 +10,5 @@ Her finder du informationer om generalforsamlinger.
 
 ## Generalforsamling 2025
 
-Generalforsamlingen 2025 bliver afholdt lørdag den 3.maj 2025 kl. 11.00 på medborgerhuset Gubben, Nørregade 11B, 3390 Hundested. 
+Generalforsamlingen 2025 blev afholdt lørdag den 3.maj 2025 kl. 11.00 på medborgerhuset Gubben, Nørregade 11B, 3390 Hundested. Se GF referat 2025 og regnskab 2024 under [Foreningens dokumenter](https://groennaessebakker.dk/dok_forening.html#generalforsamlinger-referater).
 
-- [Indkaldelse](Indkaldelse_GF_2025.pdf)
-- [Regnskab 2024](2024_Regnskab.pdf).
