@@ -50,6 +50,7 @@ Her finder du foreningens regnskaber.
 :::
 
 ::: {.column width="40%"}
+-   [Regnskab 2025](dok_forening/Regnskab_2025.pdf)
 -   [Regnskab 2024](dok_forening/Regnskab_2024.pdf)
 -   [Regnskab 2023](dok_forening/Regnskab_2023.pdf)
 -   [Regnskab 2022](dok_forening/Regnskab_2022.pdf)
