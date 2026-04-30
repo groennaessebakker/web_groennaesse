@@ -34,3 +34,19 @@ Her finder du "Lokalplan nr. 16 for et område under Grønnessegård hovedgård"
 -   [Lokalplan, 1978](dok_offentlig/Lokalplan%2016.pdf)
 :::
 :::
+
+## Halsnæs Kommune
+
+::: columns
+::: {.column width="55%"}
+Her finder du info fra Halsnæs Kommune om beskæring af træer og buske langs veje.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+-   [Folder fra 2008](dok_offentlig/beskaering-beplantning-halsneas-2008.pdf)
+-   [Halsnæs Kommune hjemmeside - se under "Beskæring og beplantning"](https://halsnaes.dk/borger/trafik-og-veje/veje-fortov-og-stier){target="_blank"}
+:::
+:::

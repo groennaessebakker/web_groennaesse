@@ -20,7 +20,6 @@ Formålet med foreningens hjemmeside er at:
     -   Offentlige dokumenter som servitutter, deklarationer og lokalplan
 -   Nyheder eller projekter der løbende kan opdateres, fx:
     -   Nyheder
-    -   Fibernet
     -   Vejene
     -   Trapperne
 -   Beskrivelse af området:
@@ -54,18 +53,13 @@ Login oplysninger **github.com**:
 
 ### Hvor er domænenavnet registreret?
 
-Foreningen har via ONE.COM A/S registreret "groennaessebakker.dk" hos Punktum dk. Morten Lorenzen er ejer af domænet.
+Foreningen har registreret "groennaessebakker.dk" hos ONE.COM A/S. Morten Lorenzen er ejer af domænet.
 
 Login oplysninger **one.com**:
 
 - Email: groennaessebakker@gmail.com
 - Adgangskode:
 
-
-Login oplysninger **punktum.dk**:
-
-- Bruger-id: ML21662-DK
-- Password:
 
 
 

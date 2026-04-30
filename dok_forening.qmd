@@ -31,6 +31,7 @@ Her finder du referater fra generalforsamlinger.
 :::
 
 ::: {.column width="40%"}
+- [Generalforsamling 2026](dok_forening/GF_referat_2026.pdf)
 - [Generalforsamling 2025](dok_forening/GF_referat_2025.pdf)
 - [Generalforsamling 2024](dok_forening/GF_referat_2024.pdf)
 - [Generalforsamling 2023](dok_forening/GF_referat_2023.pdf)
