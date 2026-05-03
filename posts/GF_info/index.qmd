@@ -1,7 +1,7 @@
 ---
 title: "Generalforsamlinger"
 author: "Bestyrelsen"
-date: 2026-05-01
+date: 2026-05-03
 ---
 
 Her finder du informationer om generalforsamlinger.

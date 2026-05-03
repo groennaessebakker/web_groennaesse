@@ -10,6 +10,24 @@ title: "Området"
 I vores vedtægter står der bl.a.: "Foreningens formål er at forestå og vedligeholde de af foreningen tilskødede vej- og andre fællesarealer."
 
 
+## Fartbegrænsning: Max 30 km/t
+
+::: columns
+::: {.column width="48%"}
+![](dok_omraadet/30km.png)
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+For at opretholde et trygt og sikkert miljø for alle beboere og besøgende i grundejerforeningen, er der besluttet en fartbegrænsning på maksimalt 30 km/t. Denne hastighedsgrænse skal overholdes uden undtagelse.
+
+Alle medlemmer opfordres derfor kraftigt til at indskærpe denne regel over for deres gæster, lejere, besøgende og håndværkere.
+:::
+:::
+
+
 ## Grundoversigt
 
 ![](dok_omraadet/Grundoversigt.png)
